@@ -1,2 +1,2 @@
 # Coursera_Capstone
-This project aims to build a model that could warn you, given the weather and the road conditions about the possibility of you getting into a car accident and how severe it would be.
+This project aims to equip you with the necessary skills to solve problems based on location data. For example, you can choose to compare different neighborhoods in terms of a service. Search for potential explanation of why a neighborhood is popular. The cause of complaints in another neighborhood, or anything else related to neighborhoods. Hence the name of the capstone project will be the battle of the neighborhoods.
