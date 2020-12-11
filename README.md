@@ -14,4 +14,6 @@ Final Report:
 
 Jupyter Notebook:
 
+! Please use nbviewer for the proper view of the Jupyter Notebook. Link provided below: https://nbviewer.jupyter.org/
+
 Author: Oleksandr Tsapin
