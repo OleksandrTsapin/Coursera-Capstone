@@ -6,13 +6,13 @@ This project aims to equip you with the necessary skills to solve problems based
 
 ***
 
-Name of my project: "Where to live in Kyiv? Apartment rent prices, population density and venues analysis of city districts"
+Project title: "Where to live in Kyiv? Apartment rent prices, population density and venues analysis of Kyiv districts."
 
-This Capstone Project has been submitted in December, 2020 as a final project for the IBM Data Science Professional Certificate.
+This Capstone Project has been submitted on 14th December 2020 as a final project for the IBM Data Science Professional Certificate.
 
-Final Report:
+Final Report: Capstone Project_Final.pdf
 
-Jupyter Notebook:
+Jupyter Notebook: Capstone_Project_Final.ipynb
 
 ! Please use nbviewer for the proper view of the Jupyter Notebook. Link provided below: https://nbviewer.jupyter.org/
 
