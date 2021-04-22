@@ -17,4 +17,5 @@ Report: Capstone_Project_Report.pdf
 Presentation: Capstone_Project_Presentation.pdf
 
 Jupyter Notebook: Capstone_Project_Notebook.ipynb
-! Please use nbviewer for the proper view of the Jupyter Notebook. Link provided below: https://nbviewer.jupyter.org/
+
+! To open the Jupyter Notebook please use nbviewer: https://nbviewer.jupyter.org/
